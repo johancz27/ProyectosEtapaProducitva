@@ -1,2 +1,2 @@
-# Proyectos Etapa Producitva
-Repositorio de GitHub donde se encuentran todas las activdades de la etapa productiva de la técnica en programación de software
+# App de Catálogo
+Página informativa que contiene el catálogo de un negocio de reparaciones.
